@@ -1,4 +1,4 @@
-## 👋 Hello! I'm your name
+## 👋 Hello! I'm Jude Dishon
 
 I am a *Full Stack Developer* with a passion for building interactive and scalable web applications. I specialize in both *frontend* and *backend* technologies, creating seamless user experiences and robust server-side logic.
 
